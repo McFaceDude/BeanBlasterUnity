@@ -1,0 +1,25 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{85483B94-F2D2-5D06-3E7D-A055479AE672}") = "Space Blaster", "Assembly-CSharp.csproj", "{7D0EC118-9C43-F5F3-4616-9936394CF4E5}"
+EndProject
+Project("{85483B94-F2D2-5D06-3E7D-A055479AE672}") = "Space Blaster", "Assembly-CSharp-Editor-firstpass.csproj", "{313B5FE4-2B56-A87E-595F-EA22CFA67C14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D0EC118-9C43-F5F3-4616-9936394CF4E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D0EC118-9C43-F5F3-4616-9936394CF4E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D0EC118-9C43-F5F3-4616-9936394CF4E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D0EC118-9C43-F5F3-4616-9936394CF4E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{313B5FE4-2B56-A87E-595F-EA22CFA67C14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{313B5FE4-2B56-A87E-595F-EA22CFA67C14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{313B5FE4-2B56-A87E-595F-EA22CFA67C14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{313B5FE4-2B56-A87E-595F-EA22CFA67C14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
